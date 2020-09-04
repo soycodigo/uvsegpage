@@ -1,0 +1,101 @@
+a{
+    text-decoration: none;
+    color: #1b1c3c;
+}
+
+.nom000 {
+    width: 100%;
+    z-index: 100;
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    left: 0;
+    top: 90px;
+}
+.nom00n {
+    width: 100%;
+    z-index: 100;
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    left: 0;
+    top: 50%;
+}
+.nom000trans {
+    position: absolute;
+    left: 0;
+    top: 1px;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+.imagenes {
+    background-color: rgba(0,0,0,0.8);
+    background-image:url(http://www.gelfuzion.com/img/slides/nivo/bg-1.jpg);
+    height: 500px;
+    max-width: 100%;
+    filter:brightness(0.4);
+}
+.imagenes2 {
+    background-color: rgba(0,0,0,0.8);
+    background-image:url(http://www.gelfuzion.com/img/slides/nivo/bg-1.jpg);
+    height: 500px;
+    filter:brightness(0.4);
+}
+
+/*#about {
+    background-color: #1b1c3c;
+    color: white;
+}*/
+#firstabout{
+    color: #1b1c3c;
+}
+#map_canvas{
+    height:400px;
+}
+.iconmail{
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    background-image: url("../img/emailicon.png");
+    vertical-align: middle;
+}
+.iconphone {
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    background-image: url("../img/phone.png");
+    vertical-align: middle;
+}
+.iconhome {
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    background-image: url("../img/iconhome.png");
+    vertical-align: middle;
+}
+#nosos {
+    color: #1b1c3c;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    align-content: center;
+}
+
+/*.cuadrado {
+    position: relative;
+    width: 50%;
+}
+
+.cuadrado:after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+}
+
+.conte {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}*/
